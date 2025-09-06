@@ -7,7 +7,7 @@ Este repositório faz parte do desafio do bootcamp **Code Girls**, oferecido pel
 
 ## O que é a Amazon EC2?
 
-A **Amazon Elastic Compute Cloud (EC2)** é um serviço de computação em nuvem que permite criar e gerenciar servidores virtuais — chamados de **instâncias** — de forma escalável, segura e com cobrança sob demanda.
+A **Amazon Elastic Compute Cloud (EC2)** é um serviço de computação em nuvem que permite criar e gerenciar servidores virtuais, chamados de **instâncias** de forma escalável, segura e com cobrança sob demanda.
 
 ---
 
